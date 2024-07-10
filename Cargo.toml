@@ -1,0 +1,3 @@
+[workspace]
+members = ["mpv-easy-ext"]
+resolver = "2"

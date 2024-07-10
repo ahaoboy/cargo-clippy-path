@@ -1,0 +1,12 @@
+[package]
+name = "mpv-easy-ext"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["ahaoboy"]
+repository = "https://github.com/mpv-easy/mpv-easy"
+description = "mpv-easy rust extension"
+
+[[bin]]
+name="mpv"
+path="./src/main.rs"
